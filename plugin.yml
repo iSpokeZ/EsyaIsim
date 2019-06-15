@@ -1,0 +1,11 @@
+name: EsyaIsim
+main: iSpokeZ\Name
+api: [3.9.1]
+version: 1.0
+author: iSpokeZ
+commands:
+  eisim:
+    description: Eşya Ismini Değiştir (iSpokeZ)
+permissions:
+  eisim.kmt:
+    default: op
